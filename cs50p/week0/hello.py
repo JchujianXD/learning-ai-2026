@@ -6,3 +6,4 @@ first, last = name.split(" ")
 
 # Say hello to user
 print(f"hello, {name}")
+feat: 完成CS50P第0周练习
