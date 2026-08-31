@@ -10,4 +10,3 @@ print(f"{x} + {y} = {x + y}")
 print(f"{x} - {y} = {x - y}")
 print(f"{x} * {y} = {x * y}")
 print(f"{x} / {y} = {x / y}")  # 整数除法结果自动变成浮点数
-feat: 完成CS50P第0周练习
