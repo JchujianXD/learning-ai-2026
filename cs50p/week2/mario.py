@@ -5,11 +5,11 @@ def main():
 
 
 def print_column(height):
-    print("#/n" * height, end="")
+    print("#\n" * height, end="")
 
 
 def print_row(width):
-    print("#/n" * width)
+    print("#\n" * width)
 
 
 def print_square(size):
